@@ -27,6 +27,8 @@
     "@builder.io/qwik-city": "^1.14.1",
     "@eslint/js": "latest",
     "@types/node": "20.14.11",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "9.25.1",
     "eslint-plugin-qwik": "^1.14.1",
     "globals": "16.0.0",
